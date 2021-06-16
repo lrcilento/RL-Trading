@@ -7,7 +7,7 @@
 ## Metodologia:
 1. As documentações das bibliotecas gym_anytrading e stable-baselines foram lidas extensivamente.
 2. Ambas bibliotecas foram integradas afim de utilizar os algoritimos de RL da stable-baselines.
-3. Foram testados os seguintes algorimitos da biblioteca, cada um com pelo menos 50 combinações de parâmetros diferentes, tanto no ginásio 'forex-v0' quanto no 'stocks-vo':
+3. Foram testados os seguintes algorimitos da biblioteca, cada um com pelo menos 50 combinações de parâmetros diferentes, tanto no ginásio 'forex-v0' quanto no 'stocks-v0':
   - A2C
   - ACER
   - ACKTR
