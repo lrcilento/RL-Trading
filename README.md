@@ -25,5 +25,9 @@ Os resultados obtidos foram parcialmente satisfatórios, a melhor combinação c
   - **DQN Never-Buy**.py: Achei interessante incluir este pois foi uma das combinações que achei curiosas, enquanto no ginásio de ações, o algoritimos DQN, dada iterações de aprendizado suficientes, sempre opta por nunca comprar nada e terminar a simulação com o valor exato de **1.0x do valor** inicial.
   - **Final**.py: Se trata da versão final do algoritimo que desejo apresentar como resultado deste projeto, como dito anteriormente ele trabalha com a melhor combinação de variáveis que eu encontrei para conseguir um resultando consistente de pelo menos **1.01x do valor inicial**.
 
+## Grupo:
+  - Lucas Cilento
+  - Matheus Costa
+  - Luigi Martins
 
   
